@@ -1,3 +1,6 @@
+/*Igor Jorge Ferraz 3TII*/
+
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
@@ -24,6 +27,7 @@ float num2 = 0;
 char operation = ' ';
 
 void setup() {
+  Serial.begin(9600);
   Wire.begin();
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C); 
   display.display();
@@ -31,6 +35,12 @@ void setup() {
   display.clearDisplay();
   display.setTextSize(1);
   display.setTextColor(SSD1306_WHITE);
+
+  Serial.println("Tecla A representa o sinal de + (Soma)");
+  Serial.println("Tecla B representa o sinal de - (Subtracao)");
+  Serial.println("Tecla C representa o sinal de * (Multiplicacao)");
+  Serial.println("Tecla D representa o sinal de / (Divisao)");
+  Serial.println("Tecla # representa o sinal de = (Igualdade)");
 }
 
 void loop() {
