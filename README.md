@@ -3,6 +3,7 @@ Mini projetos feitos com arduíno, incluindo projetos para mostras e trabalhos e
 Testes e Desenvolvimento:
 - acender_led_com_detector_de_som.ino - Circuito Físico feito com Arduíno IDE
 - sensor_de_re_led_normal.ino - Circuito Físico feito com Arduíno IDE
+- temperatura_giroscopio.ino - Circuito Físico feito com Arduíno IDE
 - calculadora.ino - Simulador Wokwi
 - dispositivo_abre_e_fecha.ino - Simulador Wokwi
 - led_potenciometro.ino - Simulador Wokwi
