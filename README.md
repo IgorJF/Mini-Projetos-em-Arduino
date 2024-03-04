@@ -17,6 +17,6 @@ Testes e Desenvolvimento:
 ![sensordere](https://github.com/IgorJF/Mini-Projetos-em-Arduino/assets/111748228/ca2274dc-dc2e-403b-8b03-f71d41451ed0)
 ![movimento](https://github.com/IgorJF/Mini-Projetos-em-Arduino/assets/111748228/e1bded49-78af-4f86-9de7-68ac352501d7)
 
-
+###### Igor Jorge Ferraz
 
 
