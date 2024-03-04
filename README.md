@@ -2,8 +2,11 @@ Mini projetos feitos com arduíno, incluindo projetos para mostras e trabalhos e
 
 Testes e Desenvolvimento:
 - acender_led_com_detector_de_som.ino - Circuito Físico feito com Arduíno IDE
+Feito com um módulo de som e um led, ao bater palmas ou executar outro som, o led acende, ao repetir a ação, o led apaga. Microcontorlador: Arduíno UNO R3
 - sensor_de_re_led_normal.ino - Circuito Físico feito com Arduíno IDE
+Feito com um sensor ultrassônico, um led e um buzzer, ao aproximar menos que 10cm, apita e pisca com maior velocidade, conforme vai afastando, vai piscando mais devagar e apitando em intervalos maiores. Microcontorlador: Arduíno UNO R3
 - temperatura_giroscopio.ino - Circuito Físico feito com Arduíno IDE
+Feito com um sensor de temperatura e umidade, giroscópio/acelerômetro e um painel de led, os sensores captam as informações externas e é exibido no painel. Microcontorlador: ESP32
 - calculadora.ino - Simulador Wokwi
 - dispositivo_abre_e_fecha.ino - Simulador Wokwi
 - led_potenciometro.ino - Simulador Wokwi
@@ -11,7 +14,7 @@ Testes e Desenvolvimento:
 - sensor_de_re.ino - Simulador Wokwi
 - sensormovimento_com_luz.ino - Simulador Wokwi
 
-  
+---  
 ![calculadora](https://github.com/IgorJF/Mini-Projetos-em-Arduino/assets/111748228/63cc5a7b-9c45-4609-9aea-d5b4c0dc8c28)
 
 ---
